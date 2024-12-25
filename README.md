@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderinpractice&label=Profile%20views&color=0e75b6&style=flat" alt="coderinpractice" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose, Flutter and React Native**
+- 🌱 I’m currently learning **Jetpack Compose, Flutter and Kotlin Multiplatform**
 
 - 📫 How to reach me **manish.jobs2306@gmail.com**
 
